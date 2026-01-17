@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+build/
+*.spec
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data files (ako ne želiš slati todos.txt na GitHub)
+todos.txt
